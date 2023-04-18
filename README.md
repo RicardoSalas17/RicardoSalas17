@@ -1,7 +1,10 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-<!--
-**RicardoSalas17/RicardoSalas17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="width: 100%;">
+<!-- <h1></h1> -->
+  <img src="svg-html.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+<!-- **RicardoSalas17/RicardoSalas17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- ![#f03c16](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_fhX3IUOJHNc71J7TQTce8KTwvx7p4AzZH6oNBoA&s)  -->
+
