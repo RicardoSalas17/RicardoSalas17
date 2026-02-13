@@ -5,6 +5,7 @@
 📩 ricardosalas.1716@gmail.com · 💬 WhatsApp: https://wa.me/525539963312  
 🔗 LinkedIn: https://linkedin.com/in/ricardosalas17  
 💼 Work GitHub: https://github.com/RicardoSalasXeleva  
+ **CV (PDF):** [CV_Luis_Ricardo_Salas.pdf](./Luis Ricardo Salas Montes de Oca_CV_ES.pdf)
 
 ---
 
